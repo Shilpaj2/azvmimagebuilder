@@ -16,7 +16,7 @@
   
     ],
     "AssignableScopes": [
-      "/subscriptions/<subscriptionID>/resourceGroups/<rgName>"
+      "/subscriptions/d5157db1-8e09-4a7d-9fd3-6b1cf5119b67/resourceGroups/myWinImgBuilderRG"
     ]
   }
 
